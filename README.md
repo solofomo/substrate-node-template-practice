@@ -19,15 +19,22 @@
 
 ✅  实现存证模块的功能，包括：创建存证；撤销存证。
 说明：使用 Substrate-node-template 的版本为 polkadot-v0.9.30（git clone -b polkadot-v0.9.30 --depth 1 https://github.com/substrate-developer-hub/substrate-node-template.git），提交的Github链接必须包含：⚠️代码运行的截图图片+⚠️全部代码
+
+运行
 ![image](https://user-images.githubusercontent.com/83760488/229035029-fbf3d5af-20aa-47b3-97c6-c8973680d254.png)
+创建存证
 ![image](https://user-images.githubusercontent.com/83760488/229035320-58399da7-17a0-4581-8662-3302199379c3.png)
+查询创建的村正
 ![image](https://user-images.githubusercontent.com/83760488/229035412-1cdafe32-2677-4c97-a342-6e59cab7f2a1.png)
+撤销存证
 ![image](https://user-images.githubusercontent.com/83760488/229035508-ed69b2a1-afd6-46d0-bde9-a2d290bb1e30.png)
+查询撤销的存证
 ![image](https://user-images.githubusercontent.com/83760488/229036577-2c112350-1910-40b8-86da-04c3b82b79dc.png)
 
 
 ✅ 为存证模块添加新的功能，转移存证，接收两个参数，一个是包含的哈希值，另一个是存证的接收账户地址。
 说明：使用 Substrate-node-template 的版本为 polkadot-v0.9.30（git clone -b polkadot-v0.9.30 --depth 1 https://github.com/substrate-developer-hub/substrate-node-template.git），提交的Github链接必须包含：⚠️代码运行的截图图片+⚠️全部代码
+
 alice把proof转给bob
 transfer之前
 ![image](https://user-images.githubusercontent.com/83760488/229035939-48bd1faa-7134-4c7e-8e45-aa0c6d28de73.png)
