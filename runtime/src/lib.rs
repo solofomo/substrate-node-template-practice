@@ -278,7 +278,7 @@ impl pallet_template::Config for Runtime {
 
 impl pallet_proofs::Config for Runtime {
 	type RuntimeEvent = RuntimeEvent;
-    type MaxClaimLength = MaxClaimLength;
+	type MaxClaimLength = MaxClaimLength;
 }
 
 // Create the runtime by composing the FRAME pallets that were previously configured.
