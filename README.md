@@ -23,7 +23,8 @@
 ![image](https://user-images.githubusercontent.com/83760488/229035320-58399da7-17a0-4581-8662-3302199379c3.png)
 ![image](https://user-images.githubusercontent.com/83760488/229035412-1cdafe32-2677-4c97-a342-6e59cab7f2a1.png)
 ![image](https://user-images.githubusercontent.com/83760488/229035508-ed69b2a1-afd6-46d0-bde9-a2d290bb1e30.png)
-![image](https://user-images.githubusercontent.com/83760488/229035592-a947ff20-8554-4e4c-a7a6-37309ff71f15.png)
+![image](https://user-images.githubusercontent.com/83760488/229036577-2c112350-1910-40b8-86da-04c3b82b79dc.png)
+
 
 ✅ 为存证模块添加新的功能，转移存证，接收两个参数，一个是包含的哈希值，另一个是存证的接收账户地址。
 说明：使用 Substrate-node-template 的版本为 polkadot-v0.9.30（git clone -b polkadot-v0.9.30 --depth 1 https://github.com/substrate-developer-hub/substrate-node-template.git），提交的Github链接必须包含：⚠️代码运行的截图图片+⚠️全部代码
