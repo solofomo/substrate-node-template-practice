@@ -46,13 +46,6 @@ pub mod pallet {
 		ProofTooLong,
 	}
 
-	// const MAX_CLAIM_LENGTH: usize = 1024;
-
-	// #[derive(Clone, PartialEq, Eq, Encode, Decode, Default, RuntimeDebug )]
-	// pub struct ProofData(pub Vec<u8>);
-
-	// pub type ProofData = BoundedVec<u8, T::MaxClaimLength>; // 使用适当的长度作为泛型参数
-
 	#[pallet::call]
 	impl<T: Config> Pallet<T> {
 		#[pallet::weight(10_000)]
