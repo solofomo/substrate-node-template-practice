@@ -7,3 +7,6 @@
 
 运行结果截图
 ![image](https://github.com/solofomo/substrate-node-template-practice/assets/83760488/92b52917-14e9-437e-8260-c7cfc1db5e06)
+
+代码路径
+https://github.com/solofomo/substrate-node-template-practice/tree/main/pallets/proofs/src
